@@ -1,6 +1,8 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
-**AIM:**
+## NAME: SRI HARI KRISHNA D T
+## REG NO: 24900669
+## EX 2 : BOOLEAN FUNCTION MINIMIZATION
+## AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
@@ -8,17 +10,11 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+## Equipment Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
-
-**Procedure**
+## Procedure:
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +27,28 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+## Program:
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![de 2 program](https://github.com/user-attachments/assets/40824282-e756-4db1-9f60-3342fc792314)
 
-Developed by: RegisterNumber:*/
 
 
-**RTL realization**
 
-**Output:**
+## RTL realization
+![de 2 rtl](https://github.com/user-attachments/assets/ab0b48ef-676a-4d60-94ba-a31adfcd7519)
 
-**RTL**
+## TIMING DIAGRAM:
+![DE TT EX 2 F1](https://github.com/user-attachments/assets/4f24d5d8-a776-4ade-8b9e-b2f41033e06e)
 
-**Timing Diagram**
+![DE TT EX 2 F2](https://github.com/user-attachments/assets/b5340ee4-b806-4cf2-8a43-27913d968554)
 
-**Result:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+## Timing Diagram:
+![TIMING DE  EX 2](https://github.com/user-attachments/assets/b228ac68-4955-46bc-b879-e9e8c3e0174d)
+
+
+
+## Result:
+The given logic functions are implemented using and their operations are verified usingVerilog programming successfully.
 
