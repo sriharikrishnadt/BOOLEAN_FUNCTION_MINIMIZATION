@@ -38,7 +38,7 @@ Program to implement the given logic function and to verify its operations in qu
 ## RTL realization
 ![de 2 rtl](https://github.com/user-attachments/assets/ab0b48ef-676a-4d60-94ba-a31adfcd7519)
 
-## TIMING DIAGRAM:
+## TRUTH TABLE:
 ![DE TT EX 2 F1](https://github.com/user-attachments/assets/4f24d5d8-a776-4ade-8b9e-b2f41033e06e)
 
 ![DE TT EX 2 F2](https://github.com/user-attachments/assets/b5340ee4-b806-4cf2-8a43-27913d968554)
