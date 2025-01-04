@@ -1,7 +1,7 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+
 ## NAME: SRI HARI KRISHNA D T
 ## REG NO: 24900669
-## EX 2 : BOOLEAN FUNCTION MINIMIZATION
+## EX 2 :IMPLEMENTATION BOOLEAN FUNCTION MINIMIZATION
 ## AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
